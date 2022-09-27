@@ -1,5 +1,5 @@
 # Login-Authentication-gRPC-POC
-Microservice for registering a new user,getting the user,verifying the JWT token of the user,Login  into the app 
+gRPC Microservice for registering a new user,getting the user,verifying the JWT token of the user,Login  into the app 
 
 Step 1:
 
